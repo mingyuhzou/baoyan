@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+ 
+<style>
+	@media print
+	{
+		#printmytab {page-break-after:always;}
+	}
+	
+	p.MsoNormal, li.MsoNormal, div.MsoNormal {
+	    margin: 0cm;
+	    margin-bottom: .0001pt;
+	    text-align: justify;
+	    text-justify: inter-ideograph;
+	    font-size: 10.5pt;
+	    font-family: "Times New Roman","serif";
+	}
+	
+	table{ border-collapse:collapse;
+	        border:1px solid #ddd;}
+	
+	table td{ 
+	 border:1px solid #ddd;
+	}
+	table th,
+	table td {
+	  font-size:14px;
+	  padding: 4px;
+	  line-height: 20px;
+	  text-align: left;
+	  vertical-align: top;
+	}
+	
+	.FontMinSize{
+	 font-size:12px;
+	 line-height: 20px;
+	 }
+	 
+	 pre{font-size: 14px;background: white;border:0;}
+</style>
+
+<body>
+
+<div id='printmytab'>
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class=WordSection1 style='layout-grid:15.6pt'>
+				<!-- 填报信息结果 -->
+				<div class="b-unit-list">
+				<!--页眉-->
+					<p class=MsoNormal align=center style='text-align: center'>
+						<b style='mso-bidi-font-weight: normal'>
+							<span style='font-size: 16.0pt; font-family: 楷体_GB2312'>中国科学院大学
+							<span lang=EN-US>2025</span>年大学生夏令营申请表<span lang=EN-US><o:p></o:p></span></span>
+						</b>
+					</p>
+					<!-- 夏令营名称、申请号 -->
+					<p class=style26 align=center style='margin-top: 23.4pt; margin-right: 0cm; margin-bottom: 15.6pt; margin-left: 0cm; mso-para-margin-top: 1.5gd; mso-para-margin-right: 0cm; mso-para-margin-bottom: 1.0gd; mso-para-margin-left: 0cm; height: 22px; width: 871px;'>
+						<b align="center" style="font-size: 13px; width: 100%">
+							<strong>夏令营名称：</strong>
+						</b>
+						<u>
+							<span lang=EN-US style='font-size: 11.0pt'>
+								<span style='mso-spacerun: yes'>&nbsp; </span>
+								<span style='mso-spacerun: yes'>&nbsp;</span>软件与网络
+								<span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+							</span>
+						</u>
+							&nbsp;&nbsp;
+						<b align="center" style="font-size: 13px; width: 100%">
+							<strong>申请号：</strong>
+						</b>
+						<u>
+							<span lang=EN-US style='font-size: 11.0pt'>
+								
+									<span style='mso-spacerun: yes'>&nbsp; </span>
+									<span style='mso-spacerun: yes'>&nbsp;</span>20251020243&nbsp;&nbsp;&nbsp;
+									<span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+								
+							</span>
+						</u>
+					</p>	
+					
+					<!--结束页眉-->
+				<div align=center>
+					<table class="NewTable" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="td-10" colspan="2">姓名</td>
+								<td class="td-10">
+									周明宇
+								</td>
+								<td class="td-10">性别</td>
+								<td class="td-15">
+									男
+								</td>
+								<td class="td-15">出生日期</td>
+								<td class="td-20" colspan="2">
+									2004-07-01
+								</td>
+								<td class="td-20" rowspan="4">
+									<img alt="近期照片"  width="120" height="160" src="http://zxsq.ucas.ac.cn:80/file/self/imgStr/e6392f72cb3c40679f037ce2d5b14be5" />
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">民族</td>
+								<td>
+									汉族
+								</td>
+								<td>是否住宿</td>
+								<td>
+									是
+									
+								</td>
+								<td>
+									身份证号
+									
+								</td>
+								<td colspan="2">
+									341402200407016814
+									
+								</td>
+								
+							</tr>
+							<tr>
+								<td colspan="2">通信地址</td>
+								<td colspan="3">
+									重庆邮电大学,400000
+								</td>
+								<td>政治面貌</td>
+								<td colspan="2">
+									中国共产主义青年团团员
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">本人手机</td>
+								<td colspan="3">
+									13329148059
+								</td>
+								<td>E-mail</td>
+								<td colspan="2">
+									2228632512@qq.com
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">应急联系人及电话</td>
+								<td colspan="3">
+									汪腊姐,15011096110
+								</td>
+								<td>家庭地址及邮编</td>
+								<td colspan="3">
+									安徽省芜湖市鸠江区,241000
+								</td>
+							</tr>
+							<tr>
+								<td class="td-5" rowspan="7">大学情况</td>
+								<td class="td-15" colspan="2">所在学校</td>
+								<td class="td-25" colspan="2">
+									
+										重庆邮电大学
+									
+									
+								</td>
+								<td class="td-15">学院</td>
+								<td class="td-10">
+									国际学院
+								</td>
+								<td class="td-10">系</td>
+								<td class="td-10">
+									软件工程
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">所在班级（基地班等）</td>
+								<td colspan="3">
+									34082201
+								</td>
+								<td>所学专业</td>
+								<td colspan="3">
+									
+										软件工程
+									
+									
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">学制</td>
+								<td colspan="3">
+									
+										4
+									
+									
+								</td>
+								<td>预计毕业年月</td>
+								<td colspan="3">
+									2026年06月
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">本科入学时间</td>
+								<td colspan="2">
+									2022-09-01
+								</td>
+								<td>英语级别及分数</td>
+								<td colspan="3">
+									
+                 				        CET6
+                 				    
+                 				    
+                 				    ,466.0
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">辅导员姓名</td>
+								<td colspan="2">
+									张登科
+								</td> 
+								<td>辅导员电话</td>
+								<td colspan="3">
+									18996471658
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">所在年级（专业）人数</td>
+								<td colspan="2">
+									102
+								</td> 
+								<td>年级（专业）排名</td>
+								<td colspan="3">
+									3
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">学生干部或社团组织</td>
+								<td colspan="6">
+									班长
+								</td> 
+							</tr>
+							<tr>
+								<td class="td-r1">个人简历（从高中阶段起）</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>已添加附件</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>本科期间获奖情况</td>
+								<td class="td-lotfont" colspan="8" >
+									
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>⚫ 2024.06 第十五届蓝桥杯软件和信息技术专业 全国二等奖
+⚫ 2025.04 中国高校计算机大赛-团体程序设计天梯赛 (个人) 全国二等奖
+⚫ 2024. 11 第十四届APMCM大学生数学建模竞赛计大赛 全国二等奖
+⚫ 2025. 05 2025年全国大学生英语竞赛NECCS 全国二等奖
+⚫ 2022.07 第十四届Mathorcup数学应用挑战赛 全国三等奖
+⚫ 2024.08 第五届华数杯全国大学生数学建模竞赛 全国三等奖
+⚫ 2024.07 第二十届百度之星程序设计大赛 重庆市金奖</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>爱好及特长</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>爱好骑行，徒步，旅游
+具备扎实的计算机基础与算法能力，曾获蓝桥杯全国二等奖、百度之星重庆市金奖、天梯赛全国二等奖。独立开发过基于Flask的博客系统，掌握Docker部署与模块化设计。熟悉数据建模与机器学习流程，能独立完成特征工程与模型调优。调试搭建过Syzkaller模糊测试平台，具备较强的系统调试能力与科研动手能力。通过CET-6，具备英文文献阅读能力，曾任班长、学习组长，组织协调与表达能力良</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>申请理由</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>在填报夏令营信息时，我坚定地选择了中国科学院软件研究所，并希望能够进入“软件与网络”方向。这个选择不是一时冲动，而是在多次查阅资料、思考研究方向和未来路径后的慎重决定。
+
+首先，我之所以申请这次夏令营，是因为我并不希望仅仅靠几份材料和一张成绩单来决定未来的研究走向。我认为，一段真实接触科研、与导师和同龄人面对面交流的机会，更能让我判断自己是否适合继续走学术这条路。软件所作为国内顶尖的科研机构，研究基础深厚，人才汇聚，我非常希望能借助这个机会沉浸式地体验其科研氛围，了解实验室的真实运作方式，从而更清楚地认识自己的兴趣与能力边界。
+
+其次，我对软件所的关注并非始于招生简章，而是出于对“做出真正可用、可验证、可推广的系统”的憧憬。软件所长期以来在系统软件、操作系统、网络协议等底层基础方向上深耕细作，这种“不急功近利、做基础设施”的风格深深吸引我。尤其是像基础软件与系统实验室、网络与信息系统实验室等，承担了大量国家重点项目，体现出真正的技术信仰与国家使命感。与这种风格契合的，是我本科期间尝试搭建系统级模糊测试工具Syzkaller时体会到的那种“调试数小时只为找到一个入口点”的科研乐趣与成就感——虽然艰苦，但踏实；虽然缓慢，但令人上瘾。
+
+更现实的动因是：我并不急于确定将来是否走学术路线，反而希望用研究生阶段来验证这件事。如果能在夏令营中亲身参与小规模的科研任务、听老师讲述真实的科研节奏，我相信可以帮助我更清晰地判断：科研到底是不是我真正热爱和擅长的事。如果适合，我会考虑未来出国读博，去接触更广阔的学术世界；如果发现自己并不擅长，也能早点做出转向，去大厂从事系统研发。</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>备注</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>软件工程技术研究开发中心</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>个人签字</td>
+								<td class="td-lotfont" colspan="8">
+									<div>
+										我承诺：所填上述内容均真实、有效，如有不实，后果自负。
+										<br>
+	     								我保证：报名前已与所在大学和家属沟通，且履行请假等相关手续，遵守所在大学的相关规章制度，出现任何责任事件由我个人承担。
+										<br>
+									</div>
+									<br>
+									<div class="td-qz">
+										<p class=MsoNormal align=center style='text-align: center; layout-grid-mode: char'>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp; </span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>签字：</span>
+										</p>
+										<p class=MsoNormal align=center style='text-align: center'>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>年</span>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>月</span>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>日</span>
+										</p>
+									</div>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				<br /> 注：是否需要提交其他材料等具体要求请以各夏令营承办单位通知为准。
+			</div>
+				</div>
+				</div>
+	       </div>
+	    </div> 
+	</div>
+</div>
+</body>

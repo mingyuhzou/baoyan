@@ -1,0 +1,293 @@
+﻿﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>表格打印 - 中国科学技术大学 - 研究生面试申请系统</title>
+<style>
+*{
+margin:0px; padding:0;
+}
+.aa{margin:20px auto; width:750px; font-size:20px; font-family: "黑体", "宋体"; text-align:center;}
+.bb{border-collapse:collapse;border:1px solid #ccc; font-size:12px; margin:0 auto;}
+.bb td{border:1px solid #ccc; padding:10px 5px; position:relative;}
+.inner_table tr{border:0px solid #fff;bordercolor:#000000}
+.inner_table td{border:0px solid #fff;}
+
+</style>
+</head>
+
+<body>
+<script language="javascript">
+//-----  下面是打印控制语句  ----------
+window.onbeforeprint=beforePrint;
+window.onafterprint=afterPrint;
+//打印之前隐藏不想打印出来的信息
+function beforePrint()
+{
+     document.getElementById("noprint").style.display='none';
+}
+//打印之后将隐藏掉的信息再显示出来
+function afterPrint()
+{
+     document.getElementById("noprint").style.display='';
+}
+</script>
+<div class="aa">中国科学技术大学研究生面试申请表</div>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0" class="bb">
+  <tr>
+    <td align="center" nowrap="nowrap" width="48"><STRONG>姓 名</STRONG></td>
+    <td width="139" align="center">&nbsp;周明宇</td>
+    <td align="center" nowrap="nowrap" width="66"><strong>性别</strong></td>
+    <td width="71" align="center">&nbsp;男</td>
+    <td align="center" nowrap="nowrap" width="105"><STRONG>出生日期</STRONG></td>
+    <td width="173" align="center">&nbsp;2004-07-01</td>
+    <td width="146" rowspan="5" align="center"><img src="http://tqms.ustc.edu.cn/userfiles/20250623/1750665261884650581.jpg" border="0" onError="this.src='http://tqms.ustc.edu.cn/images/nopic.gif'" width="130" height="144" /></td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>民 族</strong></td>
+    <td colspan="3" align="center">&nbsp;汉族</td>
+    <td align="center"><strong>政治面貌</strong></td>
+    <td align="center">&nbsp;中国共产主义青年团团员</td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>推免资格</strong></td>
+    <td colspan="3" align="center">&nbsp;可能性大</td>
+    <td align="center"><strong>身份证号</strong></td>
+    <td align="center">&nbsp;341402200407016814</td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>所在高校</strong></td>
+    <td colspan="3" align="center">&nbsp;重庆邮电大学</td>
+    <td align="center"><strong>学习专业</strong></td>
+    <td align="center">&nbsp;软件工程</td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>当前GPA</strong></td>
+    <td colspan="3" align="center">&nbsp;3.59/4.00</td>
+    <td align="center"><strong>意向导师</strong></td>
+    <td align="center">&nbsp;无</td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>联系电话</strong></td>
+    <td colspan="3" align="center">&nbsp;13329148059</td>
+    <td align="center"><strong>E-mail</strong></td>
+    <td colspan="2" align="center">&nbsp;2228632512@qq.com</td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>联系地址</strong></td>
+    <td colspan="6">重庆市-重庆城区-南岸区-崇文路2号重庆邮电大学</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>专业排名/总人数</strong></td>
+    <td  align="center">&nbsp;3/102</td>
+	<td align="center"><strong>加权平均分</strong></td>
+	<td  align="center">&nbsp;86.66</td>
+    <td align="center"><strong>英语水平</strong></td>
+    <td colspan="2" align="center">&nbsp;537(四级)&nbsp;466(六级)</td>
+  </tr>
+    <tr>
+    <td align="center" nowrap="nowrap"><strong>夏令营</strong></td>
+   
+    <td colspan="6" align="center">&nbsp;
+		
+ 	第十二届科学岛夏令营（中国科学院合肥物质科学研究院、环境科学与光电技术学院）<br>	  
+	  
+	  </td>
+  </tr>
+  
+   <tr>
+    <td align="center" nowrap="nowrap"><strong>预面试</strong></td>
+   
+    <td colspan="6" align="center">&nbsp;
+    计算机科学与技术学院        
+       </td>
+  </tr>
+    
+  	<tr>
+    <td rowspan="2" align="center" nowrap="nowrap"><strong>申请项</strong></td>
+    <td colspan="3" align="center">申请学院（系、所）</td>
+    <td colspan="3" align="center">&nbsp;
+    	
+    中国科学院合肥物质科学研究院、环境科学与光电技术学院(夏令营)<br>中国科学院紫金山天文台(夏令营)<br> 计算机科学与技术学院(预面试)<br>    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">申请专业</td>
+    <td colspan="3" align="center">&nbsp;
+    	计算机科学与技术&nbsp;&nbsp;        
+   </td>
+  </tr>
+	  
+  <tr>
+    <td rowspan="7" align="center" nowrap="nowrap"><strong>获奖情况</strong></td>
+    <td colspan="3" align="center">时间</td>
+    <td align="center">类别</td>
+    <td colspan="2" align="center">获奖名称</td>
+  </tr>
+	
+  
+  	<tr>
+    <td colspan="3" align="center">&nbsp;2024.05</td>
+    <td  align="center">&nbsp;国家级</td>
+    <td colspan="2" align="center">&nbsp;第十五届蓝桥杯软件和信息技术专业 全国二等奖</td>
+  </tr>
+	
+		<tr>
+    <td colspan="3" align="center">&nbsp;2025.04</td>
+    <td  align="center">&nbsp;国家级</td>
+    <td colspan="2" align="center">&nbsp;中国高校计算机大赛-团体程序设计天梯赛 (个人) 全国二等奖</td>
+  </tr>
+	
+		<tr>
+    <td colspan="3" align="center">&nbsp;2024.11</td>
+    <td  align="center">&nbsp;国家级</td>
+    <td colspan="2" align="center">&nbsp;第十四届APMCM大学生数学建模竞赛计大赛 全国二等奖</td>
+  </tr>
+	
+		<tr>
+    <td colspan="3" align="center">&nbsp;2025.05</td>
+    <td  align="center">&nbsp;国家级</td>
+    <td colspan="2" align="center">&nbsp;全国大学生英语竞赛NECCS 全国二等奖</td>
+  </tr>
+	
+		<tr>
+    <td colspan="3" align="center">&nbsp;2023.07</td>
+    <td  align="center">&nbsp;国家级</td>
+    <td colspan="2" align="center">&nbsp;第十四届Mathorcup数学应用挑战赛 全国三等奖</td>
+  </tr>
+	
+		<tr>
+    <td colspan="3" align="center">&nbsp;2024.08</td>
+    <td  align="center">&nbsp;国家级</td>
+    <td colspan="2" align="center">&nbsp;届华数杯全国大学生数学建模竞赛 全国三等奖</td>
+  </tr>
+	
+		
+	<tr>
+    <td rowspan="1" align="center" nowrap="nowrap"><strong>论文或专利</strong></td>
+    <td colspan="3" align="center">论文或专利名称</td>
+    <td  align="center">发表或接收时间</td>
+    <td  align="center">期刊名或专利号</td>
+	<td  align="center">作者排名</td>
+  </tr>	
+	
+		
+
+	<tr>
+    <td align="center" nowrap="nowrap"><strong>其他科研活动或成果</strong></td>
+    <td colspan="6" style="height:160px">
+    	<div style="position:relative; min-height:280px;word-WRAP: break-word;font-size:16px;width:100%">
+	        </div>
+       
+	
+    </td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center" nowrap="nowrap"><strong>社会工作</strong></td>
+    <td colspan="3" align="center">时间</td>
+    <td colspan="3" align="center">工作名称</td>
+  </tr>
+  	<tr>
+    <td colspan="3" align="center">&nbsp;2022.09-2026.06</td>
+    <td colspan="3" align="center">&nbsp;班长</td>
+  </tr>
+	
+		<tr>
+    <td colspan="3" align="center">&nbsp;2022.09-2026.06</td>
+    <td colspan="3" align="center">&nbsp;学风督导员</td>
+  </tr>
+	
+	 <!--
+  <tr>
+    <td align="center"><strong>科研及社会工作</strong></td>
+    <td colspan="6">&nbsp;</td>
+  </tr>-->
+  <!--
+  <tr>
+    <td align="center"><strong>个人自述（限500字内）</strong></td>
+    <td colspan="6" style="height:350px">
+	<div style="position:relative; min-height:350px;">
+	&nbsp;&nbsp;本科就读于重庆邮电大学软件工程专业，在专业排名中位列第3/102，GPA为3.59/4.00，多次获得奖学金以及三好学生荣誉称号。在课程学习方面，我注重打牢基础、拓展能力，核心课程均取得优异成绩，个人有扎实的理论功底与良好的逻辑思维能力。<br/>&nbsp;&nbsp;英语方面，我已通过全国大学英语四级（537&nbsp;分）和六级（466&nbsp;分）考试，并在全国大学生英语竞赛（NECCS）中获得全国二等奖(3%)，具备良好的英文文献阅读和学术写作能力，能够胜任研究生阶段对英文资料的查阅与科研文献的学习需求。<br/>&nbsp;&nbsp;此外，我在各类国家级竞赛中屡获佳绩，展现出扎实的算法能力与良好的团队协作精神。曾获得蓝桥杯全国软件和信息技术专业人才大赛二等奖、百度之星程序设计大赛重庆赛区金奖、中国高校计算机大赛天梯赛全国二等奖、全国大学生英语竞赛二等奖、APMCM&nbsp;数学建模竞赛全国二等奖，以及&nbsp;MathorCup&nbsp;数学建模竞赛全国三等奖等多项荣誉。<br/>&nbsp;&nbsp;在本科阶段，我注重理论学习与实践能力并重，积极将课堂所学应用于项目开发与科研探索中，持续打磨自己的工程能力与系统思维。	<div style="position:absolute; bottom:30px;">本人保证，以上所填一切内容（包括所提供的所有申请材料）均为真实情况，本人对此承担一切责任。</div>
+ <div style="position:absolute; bottom:10px; right:20px;"> 申请人签字
+ <span style="display:inline-block;border-bottom:1px solid #ccc; border-top:none;border-left:none;border-right:none;width:150px" ></span>
+ 2025 年    06月    26日</div>
+ </div>	</td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>面试组成员</strong></td>
+    <td colspan="3">&nbsp;</td>
+    <td align="center"><strong>面试成绩</strong></td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  
+  
+  -->
+  
+  
+   <tr>
+    <td align="center"><strong>个人自述（限500字内）</strong></td>
+    <td colspan="6" style="height:350px">
+    <table width="100%" class="inner_table" height="350" bordercolor="#000000" border="0" align="center" cellpadding="0" cellspacing="0" >
+    	<tr>
+              <td height="300" valign="top" >
+               &nbsp;&nbsp;本科就读于重庆邮电大学软件工程专业，在专业排名中位列第3/102，GPA为3.59/4.00，多次获得奖学金以及三好学生荣誉称号。在课程学习方面，我注重打牢基础、拓展能力，核心课程均取得优异成绩，个人有扎实的理论功底与良好的逻辑思维能力。<br/>&nbsp;&nbsp;英语方面，我已通过全国大学英语四级（537&nbsp;分）和六级（466&nbsp;分）考试，并在全国大学生英语竞赛（NECCS）中获得全国二等奖(3%)，具备良好的英文文献阅读和学术写作能力，能够胜任研究生阶段对英文资料的查阅与科研文献的学习需求。<br/>&nbsp;&nbsp;此外，我在各类国家级竞赛中屡获佳绩，展现出扎实的算法能力与良好的团队协作精神。曾获得蓝桥杯全国软件和信息技术专业人才大赛二等奖、百度之星程序设计大赛重庆赛区金奖、中国高校计算机大赛天梯赛全国二等奖、全国大学生英语竞赛二等奖、APMCM&nbsp;数学建模竞赛全国二等奖，以及&nbsp;MathorCup&nbsp;数学建模竞赛全国三等奖等多项荣誉。<br/>&nbsp;&nbsp;在本科阶段，我注重理论学习与实践能力并重，积极将课堂所学应用于项目开发与科研探索中，持续打磨自己的工程能力与系统思维。               
+              	
+              </td>
+        </tr>
+        <tr>
+        	 <td>
+              	本人保证，以上所填一切内容（包括所提供的所有申请材料）均为真实情况，本人对此承担一切责任。  <br>
+             <td>
+        <tr>
+        <td style="text-align:right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  申请人签字:
+ <span style="display:inline-block;border-bottom:1px solid #ccc; border-top:none;border-left:none;border-right:none;width:150px"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+ 2025 年    06月    26日&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </td>
+        </tr>
+    </table>
+    <!--
+	<div style="position:relative; min-height:350px;">
+	&nbsp;&nbsp;本科就读于重庆邮电大学软件工程专业，在专业排名中位列第3/102，GPA为3.59/4.00，多次获得奖学金以及三好学生荣誉称号。在课程学习方面，我注重打牢基础、拓展能力，核心课程均取得优异成绩，个人有扎实的理论功底与良好的逻辑思维能力。<br/>&nbsp;&nbsp;英语方面，我已通过全国大学英语四级（537&nbsp;分）和六级（466&nbsp;分）考试，并在全国大学生英语竞赛（NECCS）中获得全国二等奖(3%)，具备良好的英文文献阅读和学术写作能力，能够胜任研究生阶段对英文资料的查阅与科研文献的学习需求。<br/>&nbsp;&nbsp;此外，我在各类国家级竞赛中屡获佳绩，展现出扎实的算法能力与良好的团队协作精神。曾获得蓝桥杯全国软件和信息技术专业人才大赛二等奖、百度之星程序设计大赛重庆赛区金奖、中国高校计算机大赛天梯赛全国二等奖、全国大学生英语竞赛二等奖、APMCM&nbsp;数学建模竞赛全国二等奖，以及&nbsp;MathorCup&nbsp;数学建模竞赛全国三等奖等多项荣誉。<br/>&nbsp;&nbsp;在本科阶段，我注重理论学习与实践能力并重，积极将课堂所学应用于项目开发与科研探索中，持续打磨自己的工程能力与系统思维。	<div style="position:absolute; bottom:30px;">本人保证，以上所填一切内容（包括所提供的所有申请材料）均为真实情况，本人对此承担一切责任。</div>
+ <div style="position:absolute; bottom:10px; right:20px;"> 申请人签字:
+ <span style="display:inline-block;border-bottom:1px solid #ccc; border-top:none;border-left:none;border-right:none;width:150px" ></span>
+ 2025 年    06月    26日</div>
+ </div>	
+ -->
+ </td>
+  </tr>
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>面试组成员</strong></td>
+    <td colspan="3">&nbsp;</td>
+    <td align="center"><strong>面试成绩</strong></td>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  
+  
+  
+  
+  <tr>
+    <td align="center" nowrap="nowrap"><strong>备注（限300字内）</strong></td>
+    <td colspan="6" style="height:280px">
+		<!--
+         <table width="100%" class="inner_table" height="350" bordercolor="#000000" border="0" align="center" cellpadding="0" cellspacing="0">
+    	<tr >
+              <td height="280"  valign="top" style='word-WRAP: break-word'>
+              	
+                                
+              	
+              </td>
+        </tr>
+       </table>
+-->
+      
+    	<div style="position:relative; min-height:280px;word-WRAP: break-word;font-size:16px;width:640px">
+	        </div>
+       
+	
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
